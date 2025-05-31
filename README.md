@@ -15,3 +15,6 @@ This is a simple console-based User Registration and Login System using C++ and 
 - vector for dynamic user storage
 - class and object for user handling
 - system("cls") and getch() for better console interaction
+
+## Screenshot of different feture's output
+### Registration view
