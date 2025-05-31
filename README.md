@@ -19,3 +19,9 @@ This is a simple console-based User Registration and Login System using C++ and 
 ## Screenshot of different feture's output
 ### Registration view
 ![image alt](https://github.com/tabassumnazifa/Log-In-Registration-System/blob/main/regpage.png?raw=true)
+
+### User List view
+![image alt](https://github.com/tabassumnazifa/Log-In-Registration-System/blob/main/userlist.png?raw=true)
+
+### Search List view
+![image alt](https://github.com/tabassumnazifa/Log-In-Registration-System/blob/main/userlist.png?raw=true)
