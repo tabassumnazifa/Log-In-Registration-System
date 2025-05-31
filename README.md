@@ -27,3 +27,4 @@ This is a simple console-based User Registration and Login System using C++ and 
 ![image alt](https://github.com/tabassumnazifa/Log-In-Registration-System/blob/main/search.png?raw=true)
 
 ### Delete User view
+![image alt](https://github.com/tabassumnazifa/Log-In-Registration-System/blob/main/delete.png?raw=true)
