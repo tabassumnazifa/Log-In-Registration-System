@@ -11,7 +11,7 @@ This is a simple console-based User Registration and Login System using C++ and 
 * User-friendly menu with repeat options
 
 ## Technologies Used:
--C++ (OOP Concepts)
--vector for dynamic user storage
--class and object for user handling
--system("cls") and getch() for better console interaction
+- C++ (OOP Concepts)
+- vector for dynamic user storage
+- class and object for user handling
+- system("cls") and getch() for better console interaction
