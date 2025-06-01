@@ -1,5 +1,6 @@
 # Log-In-Registration-System
 Simple log in &amp; registration system using C++
+## Author: Nazifa Tabassum
  ## Description:
 This is a simple console-based User Registration and Login System using C++ and Object-Oriented Programming (OOP). It allows you to register users, log in, search, view, and delete users using classes and vectors — all through a menu-driven interface.
 ## Features:
